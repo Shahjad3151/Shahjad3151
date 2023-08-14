@@ -13,8 +13,7 @@
 
 - 💬 Ask me about **java , MearnStack**
 
-- ⚡ Fun fact **I like shayri**😂😂![HappyGifkaroGIF](https://github.com/Shahjad3151/Shahjad3151/assets/119397040/85f7269d-3806-4010-9749-d380bdeda65e)
-
+- ⚡ Fun fact **I am funny**😂😂!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
