@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Md Shahjad Ansari</h1>
 <h3 align="center">  
-            I'm a Full-Stack Web Developer.<br>
-  I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me.</h3>
+            ❤️I'm a Full-Stack Web Developer,❤❤️<br>
+  I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me.😎😍😘</h3>
 <img align="right" alt ="coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahjad3151&label=Profile%20views&color=0e75b6&style=flat" alt="shahjad3151" /> </p>
@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **java , MearnStack**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I like shayri**😂😂![HappyGifkaroGIF](https://github.com/Shahjad3151/Shahjad3151/assets/119397040/85f7269d-3806-4010-9749-d380bdeda65e)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
