@@ -21,7 +21,7 @@
 <a href="https://fb.com/@rock romeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@rock romeo" height="30" width="40" /></a>
 <a href="https://instagram.com/@shayar35308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@shayar35308" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@sadlife5894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sadlife5894" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shahjad_7865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shahjad_7865" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Shahjad_7865?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shahjad_7865" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
