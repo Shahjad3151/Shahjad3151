@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahjad3151&label=Profile%20views&color=0e75b6&style=flat" alt="shahjad3151" /> </p>
 
-
 - 🌱 I’m currently learning **Node-js ,java**
 
 - 💬 Ask me about **java , MearnStack**
