@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Md Shahjad Ansari</h1>
 <h3 align="center">  
-            ❤️I'm a Full-Stack Web Developer,❤️<br>
+            ❤️I'm a Front-End Web Developer,❤️<br>
   I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me.😎😍😘</h3>
 <img align="right" alt ="coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
