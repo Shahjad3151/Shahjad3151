@@ -1,5 +1,5 @@
 ![MasterHead]
-<img src="file:///C:/Users/MD%20SHAHJAD%20ANSARI/OneDrive/tcs/github.jpeg">
+
 <h1 align="center">Hi 👋, I'm Md Shahjad Ansari</h1>
 <h3 align="center">  
             ❤️I'm a Front-End Web Developer,❤️<br>
